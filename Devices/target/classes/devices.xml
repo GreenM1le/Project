@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<devices>
+    <smartphones>
+        <smartphone name = "Redmi note 10" price = "1000" weight = "165"/>
+        <smartphone name = "Iphone 13" price = "2800" weight = "170"/>
+        <smartphone name = "Samsung galaxy s10" price = "1400" weight = "157"/>
+    </smartphones>
+    <tablets>
+        <tablet name = "Xiaomi pad 5" price = "1200" weight = "510"/>
+        <tablet name = "Ipad 7" price = "900" weight = "490"/>
+        <tablet name = "Samsung galaxy tab s7" price = "1700" weight = "495"/>
+    </tablets>
+    <readers>
+        <reader name = "Onyx" price = "2150" weight = "480"/>
+        <reader name = "PocketBook" price = "1100" weight = "620"/>
+        <reader name = "Oasis" price = "1050" weight = "570"/>
+    </readers>
+    <notebooks>
+        <notebook name = "Legion Y540" price = "3000" weight = "2500"/>
+        <notebook name = "ZenBook DUO" price = "2600" weight = "1500"/>
+        <notebook name = "MacBook Air 13" price = "3200" weight = "1360"/>
+        <notebook name = "IdeaPad 3" price = "1700" weight = "2400"/>
+    </notebooks>
+</devices>
